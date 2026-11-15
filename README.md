@@ -73,6 +73,20 @@ One module to move databases, file shares, servers, container images, and Kubern
 **[terraform-cloude-agnostic](https://github.com/terraform-okirihq/terraform-cloude-agnostic)**  
 The same network, NAT, firewall, servers, and object storage on AWS, Azure, or GCP, behind one Terraform interface. Works with `terraform apply`, workspaces, HCP Terraform, and CI.
 
+#### Few of my selected projects
+
+**[terraform-aws-platform](https://github.com/OkiriGabriel/terraform-aws-platform)**  
+One Terraform module for a secure AWS platform: profiles, ECS, RDS, Redis, VPN, guardrails, and SCP packs.
+
+**[terraform-azure-platform](https://github.com/OkiriGabriel/terraform-azure-platform)**  
+Hub-and-spoke Azure with network security, AKS, and a path for on-premises migration.
+
+**[kubernetes-ansible-playbook-runner](https://github.com/OkiriGabriel/kubernetes-ansible-playbook-runner)**  
+Run Ansible playbooks inside Kubernetes. Load the content once, then apply the runner pattern you need, without SSH keys or extra hosts.
+
+**[argocd-terraform](https://github.com/OkiriGabriel/argocd-terraform)**  
+Terraform that builds an Amazon EKS cluster and installs Argo CD with Helm, plus a small GitOps sample app.
+
 ---
 
 ### Stack
