@@ -1,23 +1,47 @@
-<h1 align="center">Okiri Gabriel</h1>
+<h1 align="center">👋 Okiri Gabriel</h1>
 
 <p align="center">
-  DevOps and cloud engineer · security · Luton, England
+  <strong>I build the systems people trust at 3am.</strong><br>
+  🤖 AI · 🔐 Security · ☁️ Cloud · 🚨 SRE · ⚙️ DevOps · 🏗️ System architecture
 </p>
 
 <p align="center">
-  I build agents and the platforms around them:<br>
-  security scanning, on-call DevOps, language, marketing, and Terraform.
+  📍 Luton, England · Platform, cloud security, and DevOps engineer · Instructor<br>
+  🎤 Speaker · 🧭 Leader · 🎓 Mentor · 🛠️ Solution builder
 </p>
 
 <p align="center">
-  <a href="https://github.com/OkiriGabriel?tab=repositories">Repositories</a>
+  Open-source contributor across several projects.<br>
+  Credited on the <a href="https://hub.xerj.org/contributors/OkiriGabriel">XERJ Corpus Hub</a> — AI coding agents pull my <a href="https://github.com/open-devops-agent/open-devops-agent">open-devops-agent</a> work as a worked example, with my name attached.
+</p>
+
+<p align="center">
+  <a href="https://github.com/OkiriGabriel/">🌐 Website</a>
   &nbsp;·&nbsp;
-  <a href="https://x.com/OkiriGabriel">X / Twitter</a>
+  <a href="https://www.linkedin.com/in/okirigabriel/">💼 LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://hub.xerj.org/contributors/OkiriGabriel">🏅 XERJ credit</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/OkiriGabriel?tab=repositories">📂 Repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/OkiriGabriel">𝕏 Twitter</a>
 </p>
 
 ---
 
-### Selected work
+### 👋 About
+
+I sit where most engineers keep the work in separate boxes: the platform, the reliability, and the security. I design the architecture, then I ship it. Terraform, Ansible, Jenkins, GitHub Actions, Argo CD, Prometheus, Grafana, and Datadog are how that shows up. Multi-tenant Kubernetes. Security scanning as a pipeline gate, not a follow-up ticket. Identity across MFA, SSO, SAML, and OIDC.
+
+I also work with AI infrastructure: GPU compute, containerised model serving, and MLOps pipelines, deploying and optimising ML workloads in production. At DFgates, that meant standing up Kubernetes clusters and GPU servers across AWS, GCP, Nebius AI, and RunPod, and shipping a CI/CD pipeline that improved model inference speed by 25%.
+
+🔐 Security is built into how I design systems from day one. I've embedded SAST, DAST, SCA, and secrets scanning as mandatory pipeline gates, configured TLS/SSL and Cloudflare DDoS protection for production APIs, and implemented least-privilege IAM and Key Vault encryption across multi-tenant Azure environments. That same instinct is why I built Argus Scan, an open-source tool that unifies 20+ security scanners behind a single CLI.
+
+I'm currently a Senior Platform Engineer at Admiral Group Plc. Outside of the day job, I write about DevOps and cloud security, speak at industry events (including SRE Day London, September 2026), mentor engineers entering the field, and build open-source tools for the SRE and platform engineering community, including DeAgent, an autonomous incident-response agent, Argus Scan, and LoopMark, a LangGraph AI marketing agent. I'm also the founder of the Luton Creative & Technology Collaboration Community, bringing cloud, DevOps, AI, and cybersecurity together with creativity and personal growth.
+
+---
+
+### 🛠️ Selected work
 
 **[Argus](https://github.com/argus-code-scanning/argus-codescan-mcp)** · code scanner agent
 One open-source scanner for SAST, secrets, dependencies, infrastructure, and malware heuristics. One CLI, GitHub SARIF, and an MCP server so an editor can run the scans. [Website](https://code-scan.arestechub.com/)
@@ -39,12 +63,12 @@ The same network, NAT, firewall, servers, and object storage on AWS, Azure, or G
 
 ---
 
-### Stack
+### 🧰 Stack
 
-`Python` · `MCP` · `SAST` · `Kubernetes` · `Terraform` · `AWS` · `Azure` · `GCP` · `GitHub Actions` · `Docker` · `FastAPI`
+`Terraform` · `Ansible` · `Jenkins` · `GitHub Actions` · `Argo CD` · `Kubernetes` · `Prometheus` · `Grafana` · `Datadog` · `AWS` · `Azure` · `GCP` · `Python` · `MCP` · `FastAPI`
 
 ---
 
 <p align="center">
-  Built in Luton. Happy to talk security automation, agents, and cloud platforms.
+  🤖 Building AI, security, cloud, SRE, DevOps, and system architecture. From Luton.
 </p>
