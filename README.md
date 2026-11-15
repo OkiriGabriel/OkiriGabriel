@@ -10,7 +10,7 @@ Speaker · Leader · Mentor · Solution builder
 Open-source contributor across several projects.  
 Credited on the [XERJ Corpus Hub](https://hub.xerj.org/contributors/OkiriGabriel). AI coding agents pull my [open-devops-agent](https://github.com/open-devops-agent/open-devops-agent) work as a worked example, with my name attached.
 
-[Website](https://github.com/OkiriGabriel/) · [LinkedIn](https://www.linkedin.com/in/okirigabriel/) · [XERJ credit](https://hub.xerj.org/contributors/OkiriGabriel) · [Repositories](https://github.com/OkiriGabriel?tab=repositories) · [X](https://x.com/OkiriGabriel) [Medium](https://medium.com/@gabrielokiri)
+[Website](https://github.com/OkiriGabriel/) · [LinkedIn](https://www.linkedin.com/in/okirigabriel/) · [XERJ credit](https://hub.xerj.org/contributors/OkiriGabriel) · [Repositories](https://github.com/OkiriGabriel?tab=repositories) · [X](https://x.com/OkiriGabriel)  ·  [Medium](https://medium.com/@gabrielokiri)
 
 ---
 
