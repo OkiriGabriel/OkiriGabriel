@@ -40,37 +40,37 @@ I'm currently a Senior Platform Engineer at Admiral Group Plc. Outside of the da
 
 ### Selected work
 
-**- [Argus](https://github.com/argus-code-scanning/argus-codescan-mcp)** · code scanner agent  
-One open-source scanner for SAST, secrets, dependencies, infrastructure, and malware heuristics. One CLI, GitHub SARIF, and an MCP server so an editor can run the scans. [Website](https://code-scan.arestechub.com/)
+- **[Argus](https://github.com/argus-code-scanning/argus-codescan-mcp)** · code scanner agent  
+  One open-source scanner for SAST, secrets, dependencies, infrastructure, and malware heuristics. One CLI, GitHub SARIF, and an MCP server so an editor can run the scans. [Website](https://code-scan.arestechub.com/)
 
-**[DevOps AI Agent](https://github.com/open-devops-agent/open-devops-agent)**  
-An on-call agent for CI, Kubernetes, and cloud incidents. It diagnoses from real tool output, then applies a fix only after a dry-run and an approval gate.
+- **[DevOps AI Agent](https://github.com/open-devops-agent/open-devops-agent)**  
+  An on-call agent for CI, Kubernetes, and cloud incidents. It diagnoses from real tool output, then applies a fix only after a dry-run and an approval gate.
 
-**[Terngi AI](https://github.com/Terngi-AI/tergniai-multilang)**  
-Open-source translation and conversation API for Yoruba, Hausa, Igbo, and English. FastAPI, Azure Translator, and Groq. [terngiai.com](https://www.terngiai.com)
+- **[Terngi AI](https://github.com/Terngi-AI/tergniai-multilang)**  
+  Open-source translation and conversation API for Yoruba, Hausa, Igbo, and English. FastAPI, Azure Translator, and Groq. [terngiai.com](https://www.terngiai.com)
 
-**[Loopmark](https://github.com/loopmark-opensource/loopmark-agent)**  
-Open-source marketing agent for social content, email campaigns, audience research, lead funnels, and auto-posting.
+- **[Loopmark](https://github.com/loopmark-opensource/loopmark-agent)**  
+  Open-source marketing agent for social content, email campaigns, audience research, lead funnels, and auto-posting.
 
-**[terraform-aws-migration](https://github.com/terraform-okirihq/terraform-aws-migration)**  
-One module to move databases, file shares, servers, container images, and Kubernetes workloads from a data centre to AWS, with the CI/CD that keeps shipping them.
+- **[terraform-aws-migration](https://github.com/terraform-okirihq/terraform-aws-migration)**  
+  One module to move databases, file shares, servers, container images, and Kubernetes workloads from a data centre to AWS, with the CI/CD that keeps shipping them.
 
-**[terraform-cloude-agnostic](https://github.com/terraform-okirihq/terraform-cloude-agnostic)**  
-The same network, NAT, firewall, servers, and object storage on AWS, Azure, or GCP, behind one Terraform interface. Works with `terraform apply`, workspaces, HCP Terraform, and CI.
+- **[terraform-cloude-agnostic](https://github.com/terraform-okirihq/terraform-cloude-agnostic)**  
+  The same network, NAT, firewall, servers, and object storage on AWS, Azure, or GCP, behind one Terraform interface. Works with `terraform apply`, workspaces, HCP Terraform, and CI.
 
 #### Few of my selected projects
 
-**[terraform-aws-platform](https://github.com/OkiriGabriel/terraform-aws-platform)**  
-One Terraform module for a secure AWS platform: profiles, ECS, RDS, Redis, VPN, guardrails, and SCP packs.
+- **[terraform-aws-platform](https://github.com/OkiriGabriel/terraform-aws-platform)**  
+  One Terraform module for a secure AWS platform: profiles, ECS, RDS, Redis, VPN, guardrails, and SCP packs.
 
-**[terraform-azure-platform](https://github.com/OkiriGabriel/terraform-azure-platform)**  
-Hub-and-spoke Azure with network security, AKS, and a path for on-premises migration.
+- **[terraform-azure-platform](https://github.com/OkiriGabriel/terraform-azure-platform)**  
+  Hub-and-spoke Azure with network security, AKS, and a path for on-premises migration.
 
-**[kubernetes-ansible-playbook-runner](https://github.com/OkiriGabriel/kubernetes-ansible-playbook-runner)**  
-Run Ansible playbooks inside Kubernetes. Load the content once, then apply the runner pattern you need, without SSH keys or extra hosts.
+- **[kubernetes-ansible-playbook-runner](https://github.com/OkiriGabriel/kubernetes-ansible-playbook-runner)**  
+  Run Ansible playbooks inside Kubernetes. Load the content once, then apply the runner pattern you need, without SSH keys or extra hosts.
 
-**[argocd-terraform](https://github.com/OkiriGabriel/argocd-terraform)**  
-Terraform that builds an Amazon EKS cluster and installs Argo CD with Helm, plus a small GitOps sample app.
+- **[argocd-terraform](https://github.com/OkiriGabriel/argocd-terraform)**  
+  Terraform that builds an Amazon EKS cluster and installs Argo CD with Helm, plus a small GitOps sample app.
 
 ---
 
