@@ -40,7 +40,7 @@ I'm currently a Senior Platform Engineer at Admiral Group Plc. Outside of the da
 
 ### Selected work
 
-**[Argus](https://github.com/argus-code-scanning/argus-codescan-mcp)** · code scanner agent  
+**- [Argus](https://github.com/argus-code-scanning/argus-codescan-mcp)** · code scanner agent  
 One open-source scanner for SAST, secrets, dependencies, infrastructure, and malware heuristics. One CLI, GitHub SARIF, and an MCP server so an editor can run the scans. [Website](https://code-scan.arestechub.com/)
 
 **[DevOps AI Agent](https://github.com/open-devops-agent/open-devops-agent)**  
