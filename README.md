@@ -1,12 +1,12 @@
-<h1 align="center">Okiri Gabriel</h1>
+<h1 align="center">Gabriel Okiri</h1>
 
 <p align="center">
-  <strong>I build the systems people trust at 3am.</strong><br>
+  <strong><i>I build the systems people trust at 3am.</strong><br>
   AI · Security · Cloud · SRE · DevOps · System architecture
-</p>
+  </i>i></p>
 
 <p align="center">
-  Luton, England · Platform, cloud security, and DevOps engineer · Instructor<br>
+  Platform, cloud security, and DevOps engineer · Instructor<br>
   Speaker · Leader · Mentor · Solution builder
 </p>
 
