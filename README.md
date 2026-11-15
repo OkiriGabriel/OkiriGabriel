@@ -2,7 +2,7 @@
 
 *I build the systems people trust at 3am.*
 
-AI · Security · Cloud · SRE · DevOps · System architecture
+`AI` · `Security` · `Cloud` · `SRE` · `DevOps` · `System architecture`
 
 Platform, cloud security, and DevOps engineer · Instructor  
 Speaker · Leader · Mentor · Solution builder
