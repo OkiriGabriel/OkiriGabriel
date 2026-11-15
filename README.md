@@ -1,31 +1,16 @@
-<h1 align="center">Gabriel Okiri</h1>
+# Gabriel Okiri
 
-<p align="center">
-  <strong><i>I build the systems people trust at 3am.</strong><br>
-  AI · Security · Cloud · SRE · DevOps · System architecture
-  </i>i></p>
+*I build the systems people trust at 3am.*
 
-<p align="center">
-  Platform, cloud security, and DevOps engineer · Instructor<br>
-  Speaker · Leader · Mentor · Solution builder
-</p>
+AI · Security · Cloud · SRE · DevOps · System architecture
 
-<p align="center">
-  Open-source contributor across several projects.<br>
-  Credited on the <a href="https://hub.xerj.org/contributors/OkiriGabriel">XERJ Corpus Hub</a>. AI coding agents pull my <a href="https://github.com/open-devops-agent/open-devops-agent">open-devops-agent</a> work as a worked example, with my name attached.
-</p>
+Platform, cloud security, and DevOps engineer · Instructor  
+Speaker · Leader · Mentor · Solution builder
 
-<p align="center">
-  <a href="https://github.com/OkiriGabriel/">Website</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/okirigabriel/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://hub.xerj.org/contributors/OkiriGabriel">XERJ credit</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/OkiriGabriel?tab=repositories">Repositories</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/OkiriGabriel">X</a>
-</p>
+Open-source contributor across several projects.  
+Credited on the [XERJ Corpus Hub](https://hub.xerj.org/contributors/OkiriGabriel). AI coding agents pull my [open-devops-agent](https://github.com/open-devops-agent/open-devops-agent) work as a worked example, with my name attached.
+
+[Website](https://github.com/OkiriGabriel/) · [LinkedIn](https://www.linkedin.com/in/okirigabriel/) · [XERJ credit](https://hub.xerj.org/contributors/OkiriGabriel) · [Repositories](https://github.com/OkiriGabriel?tab=repositories) · [X](https://x.com/OkiriGabriel)
 
 ---
 
